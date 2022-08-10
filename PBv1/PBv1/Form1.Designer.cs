@@ -80,7 +80,7 @@ namespace PBv1
             this.lblTimer.Size = new System.Drawing.Size(49, 13);
             this.lblTimer.TabIndex = 4;
             this.lblTimer.Text = "00:00:00";
-            this.lblTimer.Click += new System.EventHandler(this.btnPlay_Click);
+            this.lblTimer.Click += new System.EventHandler(this.btnPlay_Click); //not sure what is supposed to go here
             // 
             // Form1
             // 
