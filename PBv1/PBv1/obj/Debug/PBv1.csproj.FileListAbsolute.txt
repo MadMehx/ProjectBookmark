@@ -1,0 +1,10 @@
+F:\maxwe\Documents\Bookmark\ProjectBookmark\PBv1\PBv1\obj\Debug\PBv1.csproj.AssemblyReference.cache
+F:\maxwe\Documents\Bookmark\ProjectBookmark\PBv1\PBv1\obj\Debug\PBv1.Form1.resources
+F:\maxwe\Documents\Bookmark\ProjectBookmark\PBv1\PBv1\obj\Debug\PBv1.Properties.Resources.resources
+F:\maxwe\Documents\Bookmark\ProjectBookmark\PBv1\PBv1\obj\Debug\PBv1.csproj.GenerateResource.cache
+F:\maxwe\Documents\Bookmark\ProjectBookmark\PBv1\PBv1\obj\Debug\PBv1.csproj.CoreCompileInputs.cache
+F:\maxwe\Documents\Bookmark\ProjectBookmark\PBv1\PBv1\bin\Debug\PBv1.exe.config
+F:\maxwe\Documents\Bookmark\ProjectBookmark\PBv1\PBv1\bin\Debug\PBv1.exe
+F:\maxwe\Documents\Bookmark\ProjectBookmark\PBv1\PBv1\bin\Debug\PBv1.pdb
+F:\maxwe\Documents\Bookmark\ProjectBookmark\PBv1\PBv1\obj\Debug\PBv1.exe
+F:\maxwe\Documents\Bookmark\ProjectBookmark\PBv1\PBv1\obj\Debug\PBv1.pdb
